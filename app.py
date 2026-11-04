@@ -1,3 +1,4 @@
+# KR2: Дружинин
 import os
 import socket
 
